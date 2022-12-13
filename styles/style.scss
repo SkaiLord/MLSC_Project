@@ -1,0 +1,30 @@
+.navbar-custom, .footer{
+    background-color: #CCD6A6;
+}
+.nav-brand, .nav-link{
+    font-family: 'Martian Mono', monospace;
+}
+.logo-img{
+    cursor: pointer;
+    float: left;
+    width: 32px;
+    height: 32px;
+    margin: 0 10px 0 0;
+}
+
+.border-custom{
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFFBE9;
+}
+.home, .contact-me{
+    background-color: #FFFBE9;
+}
+.home-image{
+    width: 280px;
+    height: 200px;
+}
+.certificate-image{
+    width: 200px;
+    height: 200px;
+}
